@@ -1,0 +1,27 @@
+<開発環境>
+android studio 2024.1.1
+main: Kotlin
+実機: galaxy s22
+仮想端末: Pixel
+targetApi: 31
+git/github
+os: windows 11 pro/Home
+
+<DB>
+study_app.db
+  |--tasks
+  |--events
+  |--"???"
+
+<activity>
+Main
+Schedule
+StudyTIme
+ToDo
+
+<展望>
+スケジュールの入力方法(画像認証)
+TO DO listのテンプレ
+通知
+UI(情報デザイン的に良いものにする)
+データ分析
