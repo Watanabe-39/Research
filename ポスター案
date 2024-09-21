@@ -33,3 +33,18 @@ UI(情報デザイン的に良いものにする)
 1週間の勉強時間
   折れ線グラフ <-- 勉強時間とその推移を可視化するため 
     推移を可視化するのはユーザーの学習意欲を促進するため
+
+| tasks | |
+| ------- | ------- |
+| `PK` | id |
+| `FK` | task_name  |
+
+| events | |
+| ------- | ------- |
+| `PK` | id |
+| `FK` | event_name <br>event_date <br>start_time<br>end_time<br>description |
+
+| subject | |
+| ------| ----- |
+| `PK` | id |
+| `FK` | total_minutes |
