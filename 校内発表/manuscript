@@ -1,0 +1,16 @@
+Study App Development
+Research background and purpose
+Today, information equipment such as smartphones or tablets are widespread. Management on our own device enables us to make our own plan and check study results visibly. As a result, we can improve learning effectiveness.
+
+Development environment
+We are developing this application with Android Studio 2024.1.1 and Kotlin. Test devices are Galaxy S22 and Pixel XL (visual terminal). We manage app versions on Git/GitHub.
+
+Database
+We use SQLite database. “study_app.db” has tables (tasks, events, study time, sleep data). They were designed for app Activity to operate CRUD easily.
+
+App Components
+Main Activity has a role to control the whole of this app. That enables each fragment to access quickly.
+There are 4 fragments, home, schedule and to do list. Home shows the result of analyzing users study circumstance. Schedule, users manage their schedules. Study Time receive study time data and save. To Do List, users manage their tasks.
+
+Utilize Sleep API
+We can analyze user’s sleep data by calling Sleep API. 
