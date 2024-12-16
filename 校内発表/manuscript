@@ -5,6 +5,15 @@ Today, information equipment such as smartphones or tablets are widespread. Mana
 Development environment
 We are developing this application with Android Studio 2024.1.1 and Kotlin. Test devices are Galaxy S22 and Pixel XL (visual terminal). We manage app versions on Git/GitHub.
 
+Demand local applications 
+A local application has better performance and stronger security than Web applications.
+We develop study application with these features. It’s expected that It be satisfying for users.
+
+Improvement 
+We will improve the application continually with User feedback and data analysis.
+We will get feedback by conducting user surveys on a regular basis.
+It will teach us about users complaints and needs, and we think improvement plans based on them.
+
 Database
 We use SQLite database. “study_app.db” has tables (tasks, events, study time, sleep data). They were designed for app Activity to operate CRUD easily.
 
