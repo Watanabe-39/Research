@@ -26,3 +26,9 @@ We can analyze user’s sleep data by calling Sleep API. There are 3 steps. 1st,
 2nd, API registration and display UI. Applications register API when it receives permission and design UI based on sleep data. 
 3rd, Unsubscribe. 
 
+Prospectus for the future 
+We plan to improve convenience from technologies.We will input our schedule by images authentication, and users can customize the template for the “To do list“.
+Improvement notifications and UI 
+We will develop the notification system for users not to miss the studying informations.
+We aim for good UI design for operating system.
+
