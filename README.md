@@ -1,15 +1,3 @@
-| tasks | |
-| ------- | ------- |
-| `PK` | id |
-| `FK` | task_name  |
+# 課題研究リポジトリ
 
-| events | |
-| ------- | ------- |
-| `PK` | id |
-| `FK` | event_name <br>event_date <br>start_time<br>end_time<br>description |
-
-| subject | |
-| ------| ----- |
-| `PK` | id |
-| `FK` | total_minutes |
-
+## 研究テーマ: 学習アプリケーション開発
