@@ -22,4 +22,7 @@ Main Activity has a role to control the whole of this app. That enables each fra
 There are 4 fragments, home, schedule and to do list. Home shows the result of analyzing users study circumstance. Schedule, users manage their schedules. Study Time receive study time data and save. To Do List, users manage their tasks.
 
 Utilize Sleep API
-We can analyze user’s sleep data by calling Sleep API. 
+We can analyze user’s sleep data by calling Sleep API. There are 3 steps. 1st, Permission request. We need agreement of users to use Sleep API. 
+2nd, API registration and display UI. Applications register API when it receives permission and design UI based on sleep data. 
+3rd, Unsubscribe. 
+
