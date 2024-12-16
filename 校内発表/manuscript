@@ -1,6 +1,6 @@
 Study App Development
 Research background and purpose
-Today, information equipment such as smartphones or tablets are widespread. Management on our own device enables us to make our own plan and check study results visibly. As a result, we can improve learning effectiveness.
+Today, information equipment such as smartphones or tablets are widespread. Managing study plans and monitoring progress on personal devices allows users to plan effectively and track their study results in a visual manner.
 
 Development environment
 We are developing this application with Android Studio 2024.1.1 and Kotlin. Test devices are Galaxy S22 and Pixel XL (visual terminal). We manage app versions on Git/GitHub.
